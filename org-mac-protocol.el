@@ -1,5 +1,4 @@
-;;; org-mac-protocol.el -- process events triggered by the
-;;; org-mac-protocol suite of AppleScripts
+;;; org-mac-protocol.el --- Process events triggered by the org-mac-protocol suite of AppleScripts
 
 ;; Copyright (C) 2009, 2010 Christopher Suckling
 
@@ -406,3 +405,4 @@ front Safari window"
 
 
 (provide 'org-mac-protocol)
+;;; org-mac-protocol.el ends here
